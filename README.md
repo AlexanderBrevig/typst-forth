@@ -2,6 +2,8 @@
 
 Forth syntax highlighting for [Typst](https://typst.app/).
 
+![](example.png)
+
 ## Installation
 
 ````typst

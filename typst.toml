@@ -9,3 +9,4 @@ repository = "https://github.com/AlexanderBrevig/typst-forth"
 keywords = ["syntax-highlighting", "forth"]
 categories = ["text"]
 compiler = "0.13.0"
+exclude = ["example.*"]
